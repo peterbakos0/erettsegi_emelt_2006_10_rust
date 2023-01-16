@@ -1,0 +1,678 @@
+677 
+1 5 3 Deep Purple:Bad Attitude
+2 3 36 Eric Clapton:Terraplane Blues
+3 2 46 Eric Clapton:Crazy Country Hop
+3 3 25 Omega:Ablakok
+2 4 23 Eric Clapton:Catch Me If You Can
+1 3 27 Eric Clapton:Willie And The Hand Jive
+3 4 33 Omega:A szamuzott
+2 6 20 Eric Clapton:Old love
+1 4 55 Deep Purple:Don't Make Me Happy
+3 4 10 AC/DC:The Furor
+1 3 29 Eric Clapton:Crosscut Saw
+2 2 32 Omega:Azt mondta az anyukam
+3 3 31 Omega:Udvari bolond kenyere
+2 6 6 AC/DC:Let There be Rock
+1 5 7 Eric Clapton:Bad Love
+3 3 56 AC/DC:Shot Of Love
+1 4 35 Deep Purple:Mad Dog
+3 7 57 Eric Clapton:Early In The Morning
+2 3 53 AC/DC:Kicked In The Teeth
+1 4 9 Omega:Torekeny lendulet
+2 4 10 Eric Clapton:Innocent Times
+3 4 25 Deep Purple:Almost Human
+1 4 23 AC/DC:Evil Walks
+2 4 4 Deep Purple:Stormbringer
+3 2 24 Eric Clapton:Hound dog
+2 4 26 Deep Purple:Mary Long
+1 5 7 Eric Clapton & B.B. King:Help The Poor
+3 3 24 AC/DC:Guns For Hire
+2 5 56 Deep Purple:Rainbow In The Dark
+1 4 18 Omega:Holdfeny-negyed
+3 3 43 AC/DC:Rising Power
+3 5 46 Omega:Regi csibeszek
+1 5 29 Eric Clapton:Just LIke A Prisoner
+2 3 17 Omega:Teli vadaszat
+2 5 28 Deep Purple:Rat Bat Blue
+3 5 27 Eric Clapton:Lonely stranger
+1 6 16 AC/DC:Night Prowler
+2 3 6 Omega:Nem szeretlek
+3 4 41 Eric Clapton:Pretending
+1 3 25 AC/DC:Night Of The Long Knives
+2 7 4 Deep Purple:Knocking At Your Back Door
+1 0 30 Eric Clapton:One More Driver One More Car
+3 4 27 Deep Purple:Bludsucker
+1 4 50 Eric Clapton:Motherless Children
+2 3 2 Eric Clapton:May You Never
+3 4 10 AC/DC:Shake Your Foundations
+1 4 7 Eric Clapton:Kind Hearted Woman Blues
+2 5 1 Omega:Ulok a hoban
+3 2 46 Omega:Az egben lebegok csarnoka
+1 3 47 Eric Clapton:Get Ready
+3 3 59 AC/DC:Hold Me Back
+2 4 17 Deep Purple:Too much is not enough
+1 3 59 Deep Purple:Nobody's Home
+3 6 20 Eric Clapton:Knockin' On Heaven's Door
+2 5 21 Deep Purple:Perfect Strangers
+1 4 7 Deep Purple:Talk About Love
+1 3 40 Eric Clapton:Carnival
+3 4 10 Deep Purple:Bloodsucker
+2 6 16 AC/DC:Live Wire
+1 3 1 Eric Clapton:From Four Until Late
+3 6 23 Deep Purple:Strange Kind of Woman
+1 1 44 Eric Clapton:Party
+2 2 33 Eric Clapton:Ruby's Loft
+1 4 26 AC/DC:Touch Too Much
+2 3 44 AC/DC:Playing With Girls
+3 4 11 AC/DC:Can I sit Next To You Girl
+1 5 14 AC/DC:Hail Caesar
+2 4 19 Deep Purple:I Need Love
+3 2 57 Deep Purple:Super Trouper
+2 3 43 Omega:Kemeny jatek
+1 4 20 Deep Purple:Mean Streak
+3 4 57 Eric Clapton:Let It Grow
+2 4 31 Eric Clapton:Tears In Heaven
+1 4 34 Deep Purple:And The Address
+3 5 48 Eric Clapton:Lead me on
+2 4 24 Omega:Maradj velem
+1 4 48 Eric Clapton:Five Long Years
+3 2 45 Eric Clapton:Man In Love
+2 6 12 Omega:Utolso itelet
+1 4 48 Omega:Az utolso ora
+3 4 56 Deep Purple:Hungry Daze
+1 5 11 Omega:Veszkijarat
+2 2 43 Omega:Finale
+3 5 49 AC/DC:Ride On
+2 4 9 AC/DC:Meanstreak
+1 3 28 AC/DC:Highway To Hell
+3 4 6 AC/DC:Rock Your Heart Out
+2 3 49 Eric Clapton:Hung Up On Your Love
+1 7 36 Omega:Nem tudom a neved
+3 3 37 Omega:A napba neztem
+2 2 4 Eric Clapton:Behind The Sun
+2 3 20 Eric Clapton:Reconsider Baby
+3 3 15 Eric Clapton:Hoochie Coochie Man
+2 5 23 AC/DC:Whole Lotta Rosie
+1 0 37 Deep Purple:Goodnight Vienna
+1 3 55 Eric Clapton:Before you accuse me
+3 7 4 Omega:Az almodozo
+1 11 5 Deep Purple:Cascades I'm Not Your Lover
+2 3 47 Omega:Az ejszakai orszaguton
+3 4 58 Eric Clapton:Little Queen Of Spades
+2 5 1 Omega:Isten tudja
+3 3 46 AC/DC:Moneytalks
+2 2 8 Omega:Arcnelkuli ember
+1 5 23 Omega:Nevtelen utazo
+2 3 33 AC/DC:You Ain't Got A Hold On Me
+3 5 21 Deep Purple:The mule
+2 4 35 Frank Zappa:Panty Rap
+1 4 48 Omega:A buvesz
+3 3 9 Eric Clapton:Forever Man
+2 3 35 Eric Clapton:Come On In My Kitchen
+3 4 51 Deep Purple:Bananas
+1 3 35 Eric Clapton:Hello Old Friend
+2 5 24 Deep Purple:Seventh Heaven
+1 5 10 Deep Purple:Our Lady
+3 4 9 Omega:Volt egy bohoc
+2 1 55 Omega:Nyitany
+3 10 11 Deep Purple:Speed King
+1 5 49 Omega:Gyongyhaju lany
+2 4 46 Deep Purple:Ted The Mechanic
+2 2 45 Frank Zappa:Envelopes
+1 5 57 Eric Clapton:Worried Life Blues
+2 3 24 Deep Purple:Hard Lovin' Woman
+3 4 9 Deep Purple:Somebody Stole My Guitar
+2 4 7 Deep Purple:Fever Dreams
+1 5 20 AC/DC:Shoot to thrill
+3 4 45 Deep Purple:Not Responsible
+2 5 42 Omega:Utazas a szurke folyon
+1 3 56 Eric Clapton:See What Love Can Do
+3 5 31 Eric Clapton:Running on Faith
+1 6 58 Eric Clapton:Badge
+2 3 56 AC/DC:Beating Around The Bush
+3 3 8 Eric Clapton:Driftin'
+2 2 36 Eric Clapton:Something Special
+3 5 11 AC/DC:Whole Lotta Rosie [Live]
+1 4 38 Omega:Sotet a varos
+2 10 26 Deep Purple:Fools
+3 4 8 Eric Clapton:Anything for your love
+1 4 0 Eric Clapton:Ain't Going Down
+1 4 41 Omega:Bibor holgy
+3 3 41 Omega:Miert beszelsz
+2 3 53 Eric Clapton:Ruby
+3 4 20 Deep Purple:Love Don't Mean A Thing
+1 5 24 Omega:Holnap
+2 5 31 Deep Purple:The Spanish Archer
+3 5 53 Eric Clapton:Help Me Up
+1 5 12 Eric Clapton:Crossroads
+2 3 35 AC/DC:Dog Eat Dog
+3 3 54 Omega:Kiskaracsony-nagykaracsony
+2 2 18 Omega:Van aki nyugtalan
+1 5 2 Eric Clapton:Rita Mae
+2 4 6 Eric Clapton:The Shape You're In
+3 6 13 Omega:Tizezer lepes
+1 2 36 Frank Zappa:For The Young Sophisticate
+2 5 42 Deep Purple:The cut runs deep
+1 4 25 Eric Clapton & B.B. King:Riding With The King
+3 3 21 Omega:Egy lany nem ment haza
+2 3 1 AC/DC:Chase The Ace
+1 4 49 Omega:Eltakart vilag
+3 3 26 Eric Clapton:Please Be With Me
+2 4 52 Omega:Enhozzam a Rock And Roll szol
+3 3 48 Eric Clapton:Nobody knows you when you are down & out
+1 4 2 AC/DC:Can't Stop Rock 'N' Roll
+3 3 20 Eric Clapton:Sinner's Prayer
+2 4 43 Deep Purple:The Purpendicular Waltz
+1 4 10 Deep Purple:Sun Goes Down
+3 3 40 Omega:Csillaglany
+2 7 7 Omega:Hajnal a varos felett
+1 5 14 AC/DC:Squealer
+3 4 25 Deep Purple:High Ball Shooter
+1 3 34 Deep Purple:Gettin' Tighter
+3 5 33 AC/DC:Rocker [Live]
+2 4 7 AC/DC:Boogie Man
+1 5 51 Deep Purple:Time To Kill
+2 5 0 Eric Clapton:It All Depends
+3 1 56 Omega:Halott viragok
+3 8 45 Eric Clapton:The Core
+1 1 0 Omega:A latogato
+2 3 46 Deep Purple:Never A Word
+1 4 35 AC/DC:Whiskey On The Rocks
+2 2 34 Eric Clapton:We're All The Way
+1 2 54 AC/DC:Fire Your Guns
+2 6 25 AC/DC:Soul Stripper
+3 4 39 Deep Purple:Black & White
+1 4 2 Omega:Oh, jojj!
+3 4 32 AC/DC:Hell Or High Water
+1 5 30 Deep Purple:Why Didn't Rosemary?
+2 6 1 Deep Purple:I Got Your Number
+3 8 40 Eric Clapton:Rambling On My Mind
+1 3 46 AC/DC:Satellite Blues
+2 4 54 Deep Purple:The Unwritten Law
+1 3 56 Omega:A feher hollo
+2 3 11 Eric Clapton:Blues Power
+3 4 25 Eric Clapton:Beautiful Thing
+1 3 59 Deep Purple:Never Before
+2 4 18 Omega:A rock-and-roll nem hagy el
+3 4 1 Eric Clapton:The Sky Is Crying
+1 4 31 Omega:Nyari ejek asszonya
+2 5 50 AC/DC:Live Wire
+3 5 33 Eric Clapton:White Room
+1 5 34 Deep Purple:Ramshackle Man
+2 3 44 Omega:Az utolso zold level
+3 2 52 Eric Clapton:After Midnight
+1 5 1 Eric Clapton & B.B. King:Marry You
+2 2 15 Frank Zappa:Love of My Life
+3 4 14 AC/DC:Hell Ain't A Bad Place To Be
+2 5 50 Frank Zappa:No Not Now
+1 4 43 Deep Purple:You Fool No One
+3 5 5 AC/DC:Burnin' Alive
+1 5 4 Eric Clapton:I Go Back Home
+2 3 34 AC/DC:T.N.T.
+3 3 30 AC/DC:Inject The Venom
+2 7 4 Omega:Hajnali ocean
+1 6 51 Eric Clapton:All Your Love
+3 6 0 Deep Purple:Burn
+2 3 37 Eric Clapton:Walkin' blues
+3 4 9 Eric Clapton:It's In The Way That You Use It
+1 5 38 Omega:Egy nehez ev utan
+2 5 38 Omega:Ebredes
+3 7 4 Deep Purple:Walk On
+1 3 38 Omega:A konyvelo alma
+2 3 9 Omega:Tuzvihar
+1 3 33 Eric Clapton:Smile
+3 3 47 Deep Purple:Love conquers all
+2 3 18 Frank Zappa:The man From Utopia Meets Mary
+1 3 12 Deep Purple:Soldier Of Fortune
+3 3 25 Omega:Ajanlott utvonal
+2 2 51 Eric Clapton:Travelling East
+1 3 31 Omega:Addig elj
+2 4 53 Eric Clapton:She's Waiting
+3 5 3 AC/DC:Rock'n'Roll Singer
+1 3 21 Eric Clapton:Lovin' You Lovin' Me
+2 3 13 AC/DC:Goodbye & Good Riddance To Bad Luck
+3 7 14 Frank Zappa:Brown Shoes Don't Make It
+1 6 24 Omega:Eletfogytig rock and roll
+2 4 36 AC/DC:If You Want Blood (You've Got It)
+1 4 50 Omega:Mozgo vilag
+2 4 48 Eric Clapton & B.B. King:I Wanna Be
+3 2 51 Eric Clapton:Give Me Strength
+3 5 9 Deep Purple:Shield
+1 4 6 AC/DC:Shake a leg
+2 3 34 Omega:Ezredfordulo
+3 3 48 Deep Purple:Jack Ruby
+1 4 36 Deep Purple:A Touch Away
+2 3 34 Omega:Blues
+3 4 41 Eric Clapton:Mean Old Frisco
+2 4 11 Eric Clapton & B.B. King:Come Rain Or Come Shine
+1 1 21 Omega:Delutani szerelem
+1 5 46 Frank Zappa:Bamboozled by Love
+2 4 2 Eric Clapton:Love In Vain
+3 3 41 AC/DC:Meltdown
+1 3 46 AC/DC:First Blood
+2 5 11 Deep Purple:Picture Of Innocence
+3 5 51 Frank Zappa:The Radio Is Broken
+1 6 16 Omega:Huszadik szazadi varoslako
+2 5 25 Deep Purple:Watching The Sky
+3 2 20 Omega:A mixer
+3 3 8 Eric Clapton:Bottle Of Red Wine
+1 8 8 Eric Clapton:Same Old Blues
+2 4 15 AC/DC:Sink The Pink
+3 5 57 Deep Purple:Help
+2 5 19 Omega:Boldog angyalok
+3 4 30 AC/DC:Got You By The Balls
+1 5 51 AC/DC:The Jack
+2 4 0 Deep Purple:The Gypsy
+3 4 14 Eric Clapton:Tearing Us Apart
+1 4 58 Omega:Lena
+2 3 25 Omega:A Fold arnyekos oldalan
+3 4 22 Omega:En elmegyek
+2 3 48 Omega:A malomban
+1 5 19 Deep Purple:You Keep On Moving
+3 4 15 Eric Clapton:Homeboy
+2 3 8 AC/DC:If You Dare
+1 4 4 Eric Clapton:Mainline Florida
+2 2 52 Omega:Utcan, a teren
+3 3 4 Deep Purple:Love Child
+2 2 9 Omega:A hetedik napon
+3 5 29 Eric Clapton:Breaking point
+1 5 5 Deep Purple:Mitzie Dupree
+2 4 34 Omega:Tekozlo fiuk
+1 3 40 AC/DC:Rock 'N' Roll Damnation
+3 2 57 Eric Clapton:Motherless Child
+2 6 35 Eric Clapton:Sunshine Of Your Love
+3 2 38 AC/DC:Big Balls
+1 8 49 Omega:Varazslatos feher ko
+3 4 10 AC/DC:Are You Ready
+2 3 44 AC/DC:Fly On The Wall
+3 7 37 Omega:Gammapolis II
+2 4 45 AC/DC:Sin City
+1 5 21 Deep Purple:Demon's eye
+2 2 30 Eric Clapton:Stop Breakin' Down Blues
+3 5 42 Omega:Egi harangok
+1 3 40 Eric Clapton:Kristen And Jim
+2 1 28 Eric Clapton:Johnny
+2 3 19 AC/DC:Deep In The Hole
+1 4 14 AC/DC:Caught With Your Pants Down
+3 2 24 Eric Clapton:Cold Turkey
+2 3 32 AC/DC:Lets Make It
+3 3 35 Eric Clapton:Slunky
+1 2 39 Omega:Rozsafak
+2 14 49 Deep Purple:Difficult to Cure
+1 3 17 AC/DC:There's Gonna Be Some Rockin'
+3 5 43 AC/DC:For Those About To Rock (We Salute You)
+1 3 23 AC/DC:Snowballed
+3 3 36 Eric Clapton:Run
+1 4 47 Deep Purple:Soon Forgotten
+3 4 17 Deep Purple:Vavoom: Ted The Mechanic
+1 5 57 Deep Purple:The Battle Rages On
+2 4 12 AC/DC:Dirty Deeds Done Dirt Cheap
+3 3 51 AC/DC:Heatseeker
+2 5 12 Deep Purple:A Gypsy's Kiss
+1 6 33 Eric Clapton:Floating Bridge
+3 4 4 Deep Purple:Silver Tongue
+3 3 21 Deep Purple:Fireball
+2 4 46 Omega:Az uzenet
+1 6 8 Deep Purple:Highway Star
+3 4 7 Eric Clapton:Rollin'&tumblin'
+2 4 26 Omega:Harangok
+3 7 3 Deep Purple:Perfect Stranger
+1 5 10 Eric Clapton:Kind Hearted Woman
+2 2 57 Eric Clapton:Blues Before Sunrise
+2 3 36 Omega:Kenyer es informacio
+1 4 13 AC/DC:Hell Ain't A Bad Place To Be [Live]
+3 3 19 Eric Clapton:It Hurts Me Too
+2 3 3 Magic Sam:Call Me If You Need Me
+1 4 13 Eric Clapton:Slow Down Linda
+3 4 16 AC/DC:Let me put my love into you
+2 2 44 Deep Purple:Lady Luck
+1 3 38 Frank Zappa:Tink Walks Amok
+2 2 8 Omega:Vasarnap
+3 4 34 Deep Purple:Under The Gun
+2 3 23 Omega:Koteltanc
+1 6 6 Eric Clapton:Groaning The Blues
+3 4 10 Deep Purple:Sitting In a Dream
+2 3 53 AC/DC:Let's Get It Up
+3 3 27 Eric Clapton:If I Had Possession Over Judgement Day
+1 7 46 Eric Clapton:Cross This Town
+2 2 56 Frank Zappa:The Dangerous Kitchen
+2 2 41 Eric Clapton:Realization
+3 3 27 AC/DC:Who Made Who
+2 5 8 Eric Clapton:Third Degree
+3 3 53 AC/DC:Give It Up
+1 4 19 Omega:Gonosz varos
+3 5 59 Deep Purple:Loosen My Strings
+2 4 17 Omega:Omegauto
+1 2 59 Eric Clapton:Easy Now
+1 4 42 AC/DC:Dog Eat Dog [Live]
+2 5 53 Deep Purple:Hey Cisco
+3 3 1 Omega:Ha en szel lehetnek
+3 4 6 Eric Clapton:I Cant Stand It
+1 3 27 Omega:A jovendomondo
+2 2 55 Eric Clapton:Cryin'
+1 6 19 Omega:Megszentelt vilag
+3 2 37 Omega:Megbantottal
+2 3 42 Eric Clapton & B.B. King:Key To The Highway
+3 8 36 AC/DC:Jack [Live]
+2 5 17 Eric Clapton:Sweet Home Chicago
+1 3 50 Eric Clapton:Will Gaines
+2 19 39 Deep Purple:Space Truckin'
+1 5 5 AC/DC:Gone Shootin'
+3 4 3 AC/DC:High Voltage
+1 9 19 Frank Zappa:Easy Meat
+3 3 53 Omega:Egi vandor
+3 3 10 AC/DC:Love At First Feel
+3 2 56 AC/DC:D.T.
+1 2 56 Eric Clapton:Me And The Devil Blues
+3 4 13 AC/DC:Up To My Neck In You
+1 3 49 Eric Clapton:Walk Away
+2 3 1 Eric Clapton:Tracks And Lines
+3 2 53 Omega:Ismertem egy lanyt
+1 4 4 Deep Purple:Listen, Learn, Read On
+2 3 33 AC/DC:Given the dog a bone
+3 3 37 Omega:Hallgatag sziv
+1 4 55 Deep Purple:The Painter
+2 4 13 Omega:Alvalaro
+3 3 34 AC/DC:Stiff Upper Lip
+3 10 29 Deep Purple:Pictures of Home
+2 2 57 Omega:Idorablo
+1 4 12 Omega:Judas
+2 2 33 Omega:Trombitas Fredi
+1 7 9 Eric Clapton & B.B. King:When My Heart Beats Like A Hammer
+2 4 24 AC/DC:Back In Business
+2 4 31 AC/DC:Hard As A Rock
+3 3 53 AC/DC:Stand Up
+1 4 50 Omega:Bibor hajnal
+3 5 31 Omega:Tizenhat evesen
+2 3 29 Deep Purple:Doing It Tonight
+1 5 29 Omega:200 evvel az utolso haboru utan
+2 3 20 Eric Clapton:When You Got A Good Friend
+3 5 30 Omega:Fekete doboz
+2 3 13 Eric Clapton:I've Got A Rock N'Roll Heart
+1 4 55 Deep Purple:Evil Louie
+2 4 27 Eric Clapton & B.B. King:Worried Life Blues
+3 3 59 Eric Clapton:Training
+1 4 27 Deep Purple:Holy Man
+2 3 46 Deep Purple:Love Help Me
+3 3 13 Eric Clapton:Knock On Wood
+1 6 3 Omega:Holdvirag
+3 3 20 Deep Purple:Lady Double Dealer
+2 3 8 Eric Clapton:How Long Blues
+3 6 54 Eric Clapton:Have You Ever Loved A Woman
+2 4 28 Eric Clapton:Someday After A While
+1 4 6 Omega:Naplemente
+2 2 44 Eric Clapton:Ramblin' on My Mind
+1 3 47 Deep Purple:Dealer
+3 3 35 Eric Clapton:Bad Boy
+2 3 58 AC/DC:Landslide
+1 3 12 Eric Clapton:Don't Know Why
+3 4 3 Omega:Az arnyek-ember
+2 4 5 Eric Clapton:Better Make It Through Today
+1 5 30 Deep Purple:Fault Line
+3 4 50 AC/DC:Baby, please don't go
+2 4 9 Omega:Fekete pillango
+1 3 52 AC/DC:Bedlam In Belgium
+3 4 50 Omega:Csillagok utjan
+2 4 18 AC/DC:Back in Black
+1 3 21 AC/DC:Gimme A Bullet
+2 5 31 Deep Purple:King of dreams
+3 4 12 Deep Purple:Smooth Dancer
+1 10 48 Eric Clapton:Don't Know Which Way To Go
+3 5 37 Omega:Napot hoztam, csillagot
+2 5 9 AC/DC:Walk All Over You
+3 4 16 Deep Purple:Lay Down, Stay Down
+2 1 49 Deep Purple:Steve Morse Solo
+1 2 35 Omega:Legy eros
+2 3 59 Deep Purple:Drifter
+3 4 49 Eric Clapton:Peaches And Diesel
+1 3 37 Omega:A madar
+2 4 28 Omega:Szemkozt a rozsaszinnel
+1 5 8 Omega:Orultek oraja
+3 7 35 Deep Purple:Strangeways
+2 4 45 Deep Purple:Kentucky Woman
+1 5 48 Deep Purple:Fortuneteller
+2 4 1 Eric Clapton:Tulsa Time
+3 4 35 Frank Zappa:Tinsel Town Rebellion
+1 2 32 Eric Clapton:I've Told You For The Last Time
+2 3 57 Eric Clapton:County Jail Blues
+3 4 20 Eric Clapton:Double Trouble
+1 10 24 Deep Purple:Smoke on The Water
+2 4 32 AC/DC:Ballbreaker
+3 2 56 Eric Clapton:Sign Language
+2 4 43 Deep Purple:Cascades: I'm Not Your Lover
+3 3 51 Deep Purple:Comin' Home
+1 5 53 Deep Purple:No One Came
+3 8 15 Omega:Kergeskezu favagok
+2 3 45 Eric Clapton:Wonderful Tonight
+2 6 47 Omega:Minden konnycseppert kar
+1 5 31 Deep Purple:Chasing Shadows
+3 4 49 Eric Clapton:Black Summer Rain
+2 1 55 Omega:Szeretnek visszamenni hozzad
+1 3 13 AC/DC:Flick Of The Switch
+2 4 22 Deep Purple:Haunted
+3 4 2 AC/DC:Come And Get It
+1 2 15 Omega:Nem vagy szep
+1 6 30 Deep Purple:Anthem
+3 1 32 Eric Clapton:New Recruit
+2 3 41 AC/DC:Can't Stand Still
+3 3 2 Eric Clapton & B.B. King:Days Of Old
+2 5 26 Frank Zappa:The Blue Light
+3 3 25 Eric Clapton:They'Re Red Hot
+1 3 19 AC/DC:C.O.D.
+3 6 57 Deep Purple:Sometimes I Feel Like a Screaming
+2 2 58 Omega:Olyan szepen mosolygott
+1 3 43 Eric Clapton:Black Rose
+2 3 14 AC/DC:Love Bomb
+1 2 49 AC/DC:Rocker
+3 1 25 Omega:Nasca
+2 4 31 Eric Clapton:The Circus Left Town
+1 5 15 AC/DC:It's a Long Way To The Top
+3 6 5 Deep Purple:Mandrake Root
+2 7 11 Deep Purple:Sometimes I Feel Like Screaming
+1 3 12 Eric Clapton:Hard Times
+3 2 7 Frank Zappa:Tell Me You Love Me
+1 5 58 AC/DC:Riff Raff
+3 3 34 Deep Purple:House Of Pain
+2 1 47 Deep Purple:Announcement For Group And Orchestra Part 1
+3 5 48 Omega:Ejfeli koncert
+2 3 18 Eric Clapton:Milkcow's Calf Blues
+1 3 41 Omega:Jart itt egy boldog ember
+2 2 31 Omega:Egyszemelyes orszag
+3 3 43 Eric Clapton:Final Fight
+1 4 52 Deep Purple:Maybe I'm A Leo
+2 4 59 Deep Purple:Dead Or Alive
+3 4 27 AC/DC:Bad Boy Boogie
+1 3 16 Omega:Petroleumlampa
+2 3 57 Deep Purple:Wasted Sunsets
+3 3 24 Omega:Spanyolgitar legenda
+1 4 22 AC/DC:The Razors Edge
+2 3 9 Omega:Oh, Barbarella
+3 5 30 Eric Clapton:Ain't That Loving You
+1 3 49 Omega:Az arc
+2 4 1 Eric Clapton:Next Time You See Her
+1 5 1 Deep Purple:Lalena
+2 5 20 Deep Purple:The Aviator
+3 3 23 AC/DC:This House Is On Fire
+3 3 35 Omega:A nagy folyo
+1 3 52 AC/DC:Damned
+2 4 36 Deep Purple:Might Just Take Your Life
+3 5 39 AC/DC:Little Lover
+1 4 48 Deep Purple:Call Of The Wild
+2 3 59 AC/DC:Mistress For Christmas
+3 3 29 Omega:Emlek
+1 4 38 Deep Purple:One Man's Meat
+2 2 40 Omega:Nyitany
+3 5 57 AC/DC:High Voltage [Live]
+2 6 14 Omega:Szomoru tortenet
+1 5 3 Deep Purple:Hold On
+3 4 52 Eric Clapton:Holy Mother
+2 3 37 Eric Clapton:Blues Leave Me Alone
+1 3 32 AC/DC:You shook me all night long
+2 4 55 Deep Purple:What' s Goin' On Here
+1 11 52 Deep Purple:Bird Has Flown + April
+3 3 16 Eric Clapton:Hey hey
+3 2 31 Omega:Elengedett kezzel
+2 5 2 Omega:Orult emberek
+3 4 46 AC/DC:Show Business
+2 4 51 Eric Clapton:Last Night
+3 3 11 Eric Clapton:Steady Rollin` Man
+1 3 56 AC/DC:House Of Jazz
+3 5 12 Deep Purple:Rosa's Cantina
+2 5 10 Eric Clapton:Can't Find My Way Home
+1 3 53 Eric Clapton:Hell Hound On My Trail
+3 3 23 AC/DC:Girls Got Rhythm
+1 5 14 AC/DC:Hells Bells
+2 3 38 Deep Purple:One More Rainy Day
+3 4 36 AC/DC:All Screwed Up
+2 4 0 AC/DC:Brain Shake
+1 4 42 AC/DC:Jailbreak
+3 10 52 Deep Purple:Lazy
+2 10 7 Deep Purple:River Deep, Mountain Hight
+1 4 0 Deep Purple:Lick It Up
+1 3 23 Omega:Yeshiva eneke
+1 7 4 Omega:Nelkuled
+2 2 56 Frank Zappa:Cokaine Decisions
+3 7 55 Deep Purple:Flight of the rat
+2 4 7 Eric Clapton:If I Don't Be There By Morning
+1 3 59 AC/DC:Safe In New York City
+2 4 32 AC/DC:Cover You In Oil
+3 4 26 Deep Purple:Whatsername
+1 3 45 Eric Clapton:Man Overboard
+2 6 32 Deep Purple:Anya
+3 5 14 Eric Clapton:To Make Somebody Happy
+1 7 25 Deep Purple:Mistreated
+2 4 16 AC/DC:Rock and roll ain't noise pollution
+3 3 31 Eric Clapton:Lonesome And A Long Way From Home
+1 3 46 Omega:Metamorfozis I
+3 3 37 AC/DC:What do you do for money honey
+2 4 36 Deep Purple:Nasty Piece Of Work
+1 7 11 Deep Purple:Hard lovin+ man
+3 2 19 Omega:1958-as boogie-woogie klubban
+2 4 51 Eric Clapton:Take A Chance
+3 3 0 Frank Zappa:Dance Contest
+3 3 59 AC/DC:Kissin' Dynamite
+2 3 38 Deep Purple:The Well Stressed Guitar
+1 5 40 Eric Clapton:Another Ticket
+3 12 4 Frank Zappa:Drowning Witch
+2 5 31 AC/DC:Go Down
+1 4 27 AC/DC:Go Zone
+2 4 18 AC/DC:Nick Of Time
+1 3 42 Omega:A penz
+2 4 30 Omega:Computer-alom
+1 4 59 Omega:Segits nekem!
+3 6 3 AC/DC:Down Payment Blues
+2 6 9 Deep Purple:Black Night
+1 3 45 AC/DC:That's The Way I Wanna Rock N Roll
+3 4 41 Omega:Ez egy eletre szol
+1 3 37 Frank Zappa:Stick Together
+2 5 45 AC/DC:Problem Child
+3 4 28 Frank Zappa:The Jazz Discharge Party Hats
+1 4 53 AC/DC:Thunderstruck
+2 4 43 Deep Purple:Fire in the basement
+3 5 14 Deep Purple:Truth hurts
+1 3 58 Omega:Felbeszakadt koncert
+2 1 37 Eric Clapton:Bike Ride
+3 4 30 AC/DC:Spellbound
+1 4 41 Eric Clapton & B.B. King:Ten Long Years
+2 2 34 AC/DC:Get It Hot
+2 4 37 Eric Clapton:All Our Past Times
+3 4 17 Deep Purple:A Twist In The Tale
+1 5 38 Omega:Regvart kedvesem
+2 2 50 Omega:Metamorfozis II
+3 4 53 Eric Clapton:Hold On
+1 3 28 Deep Purple:Razzle Dazzle
+2 2 35 Eric Clapton:Dixie
+2 4 30 AC/DC:Ruff Stuff
+3 5 53 Deep Purple:Woman From Tokyo
+1 3 12 Eric Clapton:Signe
+1 5 37 Omega:Fenymadar
+2 4 31 Eric Clapton:Traveling Riverside Blues
+3 6 20 Eric Clapton & B.B. King:Hold On I'm Coming
+2 3 5 Omega:Nem uj a nap alatt semmi
+1 4 11 Eric Clapton:I Can`t Hold Out
+2 5 6 Eric Clapton:Bad Influence
+3 2 58 Eric Clapton:Blow Wind Blow
+1 5 17 Deep Purple:Breakfast in bed
+3 5 35 Eric Clapton:No Alibis
+2 8 32 Eric Clapton:Further on up the Road
+1 4 15 Omega:Nem tilthatom meg
+3 5 11 Deep Purple:A Castle Full Of Rascals
+1 3 40 Omega:A fenykepesznel
+2 7 25 Deep Purple:Hey Joe
+3 3 42 Eric Clapton:Alberta
+1 3 24 AC/DC:Send For The Man
+3 4 28 Deep Purple:Any Fule Kno That
+1 6 9 Frank Zappa:I Come From Nowhere
+2 3 33 Eric Clapton:Chase
+3 4 47 Deep Purple:Fingers To The Bone
+1 3 23 Eric Clapton:San francisco bay blues
+2 4 42 Deep Purple:Solitaire
+3 4 48 Frank Zappa:Valley Girl
+1 4 22 AC/DC:Danger
+2 3 38 AC/DC:Badlands
+3 4 23 AC/DC:Breaking The Rules
+1 3 29 Omega:Vigyazz rank!
+2 2 4 Deep Purple:Overture
+2 4 12 AC/DC:Some Sin For Nuthin'
+1 3 36 Eric Clapton:Malted milk
+3 4 28 Deep Purple:Wring That Neck
+2 5 28 Eric Clapton:Pretty Girl
+1 6 57 Eric Clapton:Driftin' Blues
+3 3 23 Eric Clapton:If I Had a Possession Over Judgement Day
+3 8 37 Eric Clapton & B.B. King:Three O'Clock Blues
+1 4 7 Omega:Babylon
+1 9 35 Deep Purple:Strange Kind Of Women
+3 6 34 Deep Purple:Place In Line
+3 4 1 Eric Clapton:Goin' Away Baby
+1 6 6 Eric Clapton:Presence Of The Lord
+3 3 37 AC/DC:Rock'N'Roll Damnation
+1 3 56 Omega:artatlan gyujtgatok
+3 5 35 AC/DC:The Honey Roll
+1 4 22 Eric Clapton:I Shot The Sheriff
+3 10 19 Deep Purple:Child in time
+1 4 24 AC/DC:This Means War
+1 4 42 Eric Clapton:Behind The Mask
+3 5 22 Deep Purple:Blind
+1 6 2 Eric Clapton:Never Make You Cry
+3 5 32 Omega:Hutlen baratok
+1 3 15 Eric Clapton:Everybody Oughta Make A Change
+1 5 49 Deep Purple:Sail Away
+3 1 9 Omega:Egy kis piheno
+3 6 21 Deep Purple:Gypsy's Kiss
+1 3 30 Frank Zappa:Fine Girl
+3 9 41 Eric Clapton:Layla
+1 5 1 Eric Clapton:Let It Rain
+1 3 20 Frank Zappa:We Are Not Alone
+1 4 23 Omega:Harom csendes nap
+3 3 57 AC/DC:That's the way I wanna Rock 'n' Roll
+1 6 19 Eric Clapton:Grand Illusion
+3 3 29 Deep Purple:Into the fire
+3 5 31 Omega:Legenda
+1 4 16 Omega:Ahol a boldogsagot osztottak
+3 3 55 Eric Clapton:Lay Down Sally
+1 1 27 Deep Purple:Contact Lost
+1 1 47 Eric Clapton:Country Bikin'
+3 3 58 AC/DC:Have a drink on me
+1 4 5 Eric Clapton:Run so far
+3 3 6 Omega:Hazug lany
+1 3 20 Eric Clapton:Preludin Fugue
+3 6 34 Deep Purple:Wicked ways
+1 3 22 Omega:Van egy szo
+1 3 32 AC/DC:What's Next To The Moon
+3 4 32 Deep Purple:Living wreck
+1 4 59 Omega:Bucsuztato-Szvit
+3 4 3 Omega:Level /Poste Restante/
+1 3 38 Eric Clapton:Standin' Round Crying
+3 4 19 Deep Purple:She Was
+1 3 19 Eric Clapton:Something's Happening
+3 3 32 Deep Purple:When A Blind Man Cries
+1 6 54 Deep Purple:No no no
+3 3 25 AC/DC:Put The Finger On You
+3 6 9 AC/DC:Overdose
+1 4 27 Omega:Ballada a fegyverkovacs fiarol
+1 5 21 AC/DC:Two's Up
+3 3 26 Eric Clapton:Hold Me Lord
+1 4 56 Eric Clapton:I Can Wait
+1 5 28 Omega:Hazafele
+1 5 0 Frank Zappa:Pick Me, I'm Clean
+1 2 35 Eric Clapton:Last Fair Deal Gone Down

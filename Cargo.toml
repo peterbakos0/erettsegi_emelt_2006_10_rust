@@ -1,0 +1,7 @@
+[package]
+name = "erettsegi_emelt_2006_10_rust"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+
